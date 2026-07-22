@@ -150,11 +150,11 @@ https://rohit.site.je
 
 💼 LinkedIn
 
-https://linkedin.com/in/YOUR-LINKEDIN
+https://www.linkedin.com/in/rohitagr06/
 
 📧 Email
 
-YOUR_EMAIL
+rohitagr06@gmail.com
 
 🐙 GitHub
 
