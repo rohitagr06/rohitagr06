@@ -1,7 +1,7 @@
 <!-- Banner -->
 
 <p align="center">
-  <img src="https://your-banner-image-url" width="100%" alt="Rohit Agarwal Banner">
+  <img src="./banner.png" alt="Rohit Agarwal Banner" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm Rohit Agarwal</h1>
@@ -15,6 +15,18 @@ Building scalable backend systems, AI-powered applications, and production-ready
 </p>
 
 ---
+
+![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python)
+
+![AI](https://img.shields.io/badge/AI-Engineer-success)
+
+![Backend](https://img.shields.io/badge/Backend-Python-blueviolet)
+
+![Azure](https://img.shields.io/badge/Azure-Cloud-0078D4)
+
+![Portfolio](https://img.shields.io/badge/Portfolio-rohit.site.je-orange)
+
+![Open Source](https://img.shields.io/badge/Open%20Source-MediScan-success)
 
 
 # 🌐 Portfolio
